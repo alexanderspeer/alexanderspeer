@@ -1,10 +1,13 @@
 ## Hi, I'm Alex
 
-I am a Cognitive Science student at Columbia University focused on neural engineering, machine learning, and embedded systems.
+I am a Cognitive Science student at Columbia University who is focused on neural engineering, machine learning, and embedded systems.
 
-- Interests: BCIs, EEG, neurotech
-- Tools: Python, MATLAB, Arduino, PyTorch
-- Projects: EEG pipelines, embedded devices, ML models
+- Interests: Brain Computer Interfaces, Epilespy, Nuero, Electrical Engineering
+- Tools: Python, MATLAB, Javascript, C++, Arduino
+- Projects: A lot of EEG signal processing, Computational Neuroscience, Embedded devices, as well as a suite of (in my opinion) cool personal apps. 
 
-Website: https://yourwebsite.com  
-Email: your@email.com
+My website took me a while to make, please check it out: https://alexspeer.com  
+Email: alexspeer12{at}gmail{dot}com
+
+![Profile image](IMG_3549.JPG)
+
