@@ -1,6 +1,6 @@
 ## Hi, I'm Alex
 
-I am a Cognitive Science student at Columbia University who is focused on neural engineering, machine learning, and embedded systems.
+I am a Research Assistant in the Friedman Lab at WashU building BCIs.
 
 - Interests: Brain Computer Interfaces, Epilespy, Neuro, Electrical Engineering
 - Tools: Python, MATLAB, Javascript, C++, Arduino
