@@ -1,6 +1,6 @@
 ## Hi, I'm Alex
 
-I am a Research Assistant in the Friedman Lab at WashU building BCIs.
+I am a Research Assistant at WashU building BCIs (Hire 1 of 1 @ Friedman Lab).
 
 - Interests: Brain Computer Interfaces, Epilespy, Neuro, Electrical Engineering
 - Tools: Python, MATLAB, Javascript, C++, Arduino
