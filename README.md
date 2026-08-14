@@ -2,7 +2,7 @@
 
 I am a Research Assistant at WashU building BCIs (Hire 1 of 1 @ Friedman Lab).
 
-- Interests: Brain Computer Interfaces, Epilespy, Neuro, Electrical Engineering
+- Interests: BCIs, Epilespy, Neuro, EE
 - Tools: Python, MATLAB, C++, Javascript, Arduino
 - Projects: A lot of EEG signal processing, Computational Neuroscience, Embedded devices, as well as a suite of (in my opinion) cool personal apps. 
 
